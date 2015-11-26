@@ -1,11 +1,18 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:57:48.239858
-#+TITLE: 華嚴經行願品疏
-#+PROPERTY: CBETA_ID X05n0227
-#+PROPERTY: ID KR6e0069
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 05, No. 227
-#+PROPERTY: VOL 05
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴經行願品疏 / master
+#+DATE: 2015-11-26 14:14:55.765257
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0069_X_000-0048b>
+* 目次
+* 卷
+** [[file:KR6e0069_001.txt][華嚴經行願品疏 1]]
+** [[file:KR6e0069_002.txt][華嚴經行願品疏 2]]
+** [[file:KR6e0069_003.txt][華嚴經行願品疏 3]]
+** [[file:KR6e0069_004.txt][華嚴經行願品疏 4]]
+** [[file:KR6e0069_005.txt][華嚴經行願品疏 5]]
+** [[file:KR6e0069_006.txt][華嚴經行願品疏 6]]
+** [[file:KR6e0069_007.txt][華嚴經行願品疏 7]]
+** [[file:KR6e0069_008.txt][華嚴經行願品疏 8]]
+** [[file:KR6e0069_009.txt][華嚴經行願品疏 9]]
+** [[file:KR6e0069_010.txt][華嚴經行願品疏 10]]
